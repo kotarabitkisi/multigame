@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\unity\\Multiplayer_Deneme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4043757-7BAE-F8BF-2B80-C629462D1189}|Assembly-CSharp.csproj|c:\\users\\asus\\desktop\\unity\\multiplayer_deneme\\assets\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4043757-7BAE-F8BF-2B80-C629462D1189}|Assembly-CSharp.csproj|solutionrelative:assets\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4043757-7BAE-F8BF-2B80-C629462D1189}|Assembly-CSharp.csproj|c:\\users\\asus\\desktop\\unity\\multiplayer_deneme\\assets\\codes\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4043757-7BAE-F8BF-2B80-C629462D1189}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4043757-7BAE-F8BF-2B80-C629462D1189}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\unity\\Multiplayer_Deneme\\assets\\codes\\yonet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4043757-7BAE-F8BF-2B80-C629462D1189}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\yonet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4043757-7BAE-F8BF-2B80-C629462D1189}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\unity\\Multiplayer_Deneme\\assets\\codes\\hareket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4043757-7BAE-F8BF-2B80-C629462D1189}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\hareket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4043757-7BAE-F8BF-2B80-C629462D1189}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\unity\\Multiplayer_Deneme\\assets\\codes\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4043757-7BAE-F8BF-2B80-C629462D1189}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4043757-7BAE-F8BF-2B80-C629462D1189}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\unity\\Multiplayer_Deneme\\assets\\codes\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4043757-7BAE-F8BF-2B80-C629462D1189}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4043757-7BAE-F8BF-2B80-C629462D1189}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\unity\\Multiplayer_Deneme\\assets\\codes\\fpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4043757-7BAE-F8BF-2B80-C629462D1189}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\fpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mover.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\unity\\Multiplayer_Deneme\\Assets\\Mover.cs",
+              "RelativeDocumentMoniker": "Assets\\Mover.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\unity\\Multiplayer_Deneme\\Assets\\Mover.cs",
+              "RelativeToolTip": "Assets\\Mover.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T15:30:00.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FPC.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\unity\\Multiplayer_Deneme\\Assets\\Codes\\FPC.cs",
+              "RelativeDocumentMoniker": "Assets\\Codes\\FPC.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\unity\\Multiplayer_Deneme\\Assets\\Codes\\FPC.cs",
+              "RelativeToolTip": "Assets\\Codes\\FPC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:03:40.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SceneChanger.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\unity\\Multiplayer_Deneme\\Assets\\Codes\\SceneChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Codes\\SceneChanger.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\unity\\Multiplayer_Deneme\\Assets\\Codes\\SceneChanger.cs",
+              "RelativeToolTip": "Assets\\Codes\\SceneChanger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T17:00:55.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stats.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\unity\\Multiplayer_Deneme\\Assets\\Codes\\Stats.cs",
+              "RelativeDocumentMoniker": "Assets\\Codes\\Stats.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\unity\\Multiplayer_Deneme\\Assets\\Codes\\Stats.cs",
+              "RelativeToolTip": "Assets\\Codes\\Stats.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDQAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:24:38.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Yonet.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\unity\\Multiplayer_Deneme\\Assets\\Codes\\Yonet.cs",
+              "RelativeDocumentMoniker": "Assets\\Codes\\Yonet.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\unity\\Multiplayer_Deneme\\Assets\\Codes\\Yonet.cs",
+              "RelativeToolTip": "Assets\\Codes\\Yonet.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAADwvxQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:04:18.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "hareket.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\unity\\Multiplayer_Deneme\\Assets\\Codes\\hareket.cs",
+              "RelativeDocumentMoniker": "Assets\\Codes\\hareket.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\unity\\Multiplayer_Deneme\\Assets\\Codes\\hareket.cs",
+              "RelativeToolTip": "Assets\\Codes\\hareket.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:00:43.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\unity\\Multiplayer_Deneme\\Assets\\Codes\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Codes\\LevelManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\unity\\Multiplayer_Deneme\\Assets\\Codes\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Codes\\LevelManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:48:27.258Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
